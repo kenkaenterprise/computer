@@ -1,0 +1,8 @@
+@charset "utf-8";
+.artemiz_fn_pagetitle .dot{
+	display: none;
+}
+.artemiz_fn_pagetitle h3:after{
+	content: '.';
+	color: #f3b469;
+}
