@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://pposhipping.dev
+Data file = /var/www/html/wp-content/uploads/2022/05/demo-content-import-file_2022-05-26__07-42-09.xml
+Widget file = /var/www/html/wp-content/uploads/2022/05/demo-widgets-import-file_2022-05-26__07-42-09.json
+Customizer file = not defined!
+Redux files:
+artemiz_fn_option -> /var/www/html/wp-content/uploads/2022/05/demo-redux-import-file_0-2022-05-26__07-42-09.json 
+
+
+---Importing widgets---
+footer-instagram-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+Block - No Title - Imported to Inactive
+
+Main Sidebar : 
+
+Frenify About - No Title - Imported
+Frenify Social - Subscribe &amp; Follow - Imported
+Frenify News - Trending Now - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: artemiz_fn_option finished successfully!
+
+---ocdi/after_import---
+
